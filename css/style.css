@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    ;
+}
+table{
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+th , td {
+    border: 1px solid;
+    font-weight: bold;
+}
+th{
+    background-color: #e8e8e8;
+}
+.public-swim{
+    background-color: #009bcc;
+}
+.aquacise{
+background-color: #e65686;
+}
+.lane-swin{
+background-color: #96c21f;
+}
+.Education{
+background-color: #11bcaf;
+}
+.Oldham{
+    background-color: #ee7317;
+}
+.ParentetBaby{
+    background-color:#d9006b
+} 
+.Aqua-jog{
+    background-color: #d9006b;
+}   
+
